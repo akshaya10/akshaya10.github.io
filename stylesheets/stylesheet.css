@@ -4,13 +4,14 @@
 body {
   padding: 0;
   margin: 0;
+  background-color: cadetblue;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 40px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #373737; }
 
 a {
-  color: #1e6bb8;
+  color: hotpink;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -19,7 +20,7 @@ a {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: cadetblue(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
